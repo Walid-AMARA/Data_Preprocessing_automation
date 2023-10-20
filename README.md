@@ -12,6 +12,6 @@ Second phase is the prediction phase. You upload both the csv dataset that you w
 
 Then you check the "Already have a model? Predict now", name your prediction feature and execute the model download the result CSV.
 
-![1651152522566](https://github.com/Walid-AMARA/Data_Preprocessing_automation/assets/59109675/f8a65312-c847-4a01-ad8d-beecb47f6b6a)
+![1651963499866](https://github.com/Walid-AMARA/Data_Preprocessing_automation/assets/59109675/bff622cf-c952-4829-9ef9-660217ebb29f)
 
-![1651152521456](https://github.com/Walid-AMARA/Data_Preprocessing_automation/assets/59109675/28b06c5f-cfa9-45ed-9edc-96c2e7cc73ce)
+![1651963498594](https://github.com/Walid-AMARA/Data_Preprocessing_automation/assets/59109675/920b0daf-1e6a-4b1c-8ab6-dc343c8be887)
